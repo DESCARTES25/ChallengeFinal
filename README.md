@@ -356,7 +356,10 @@ Once the cotainers are working, check these links in order to know the complete 
 
 ## Deployment
 
-Add additional notes about how to deploy this on a live system
+Add additional notes about how to deploy this on a live system (Pipeline Proposal)
+
+![alt text](https://github.com/DESCARTES25/ChallengeFinal/blob/master/pipeline.png) 
+
 
 ## Built With
 
