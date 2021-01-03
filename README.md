@@ -21,7 +21,7 @@ A step by step series of examples that tell you how to get a development env run
 Say what the step will be
 
 
-1. Download the repository (https://github.com/DESCARTES25/ChallengeCompleteDocker)
+1. Download the repository (https://github.com/DESCARTES25/ChallengeFinal)
 
 2. Unzip the content in your local machine
 
