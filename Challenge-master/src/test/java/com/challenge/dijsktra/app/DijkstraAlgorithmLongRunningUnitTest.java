@@ -903,7 +903,7 @@ public class DijkstraAlgorithmLongRunningUnitTest {
 		graph = Dijkstra.calculateShortestPathFromSource(graph, nodeC);
 
 		List<Node> shortestPathForNodeCA = Arrays.asList(nodeC);
-		List<Node> shortestPathForNodeCB = Arrays.asList(nodeC,nodeF,nodeD);
+		List<Node> shortestPathForNodeCB = Arrays.asList(nodeC,nodeA);
 		List<Node> shortestPathForNodeCD = Arrays.asList(nodeC,nodeF);
 		List<Node> shortestPathForNodeCE = Arrays.asList(nodeC,nodeF,nodeD);
 		List<Node> shortestPathForNodeCF = Arrays.asList(nodeC);
